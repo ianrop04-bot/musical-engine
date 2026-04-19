@@ -1,0 +1,11 @@
+{
+ "name": "express",
+ "description": "A express Website Fetch",
+ "main": "./index.js",
+ "scripts":{
+   "start": "node index.js"
+ },
+ "dependencies":{
+   "express": "^5.0.0"
+ }
+}
